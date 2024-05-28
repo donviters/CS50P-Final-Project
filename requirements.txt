@@ -1,0 +1,5 @@
+cowsay
+datetime
+fpdf
+pytest
+validators
